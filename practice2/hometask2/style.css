@@ -1,0 +1,49 @@
+.web-slide {
+   width: 70px;
+   margin-left: auto;
+   margin-right: auto;
+   border: 2px solid black;
+   width: max-content;
+   padding: 10px 20px;
+   background: #eeeeee;
+}
+
+.point-img {
+   width: 500px;
+   text-align: center;
+}
+
+.point-img {
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.item {
+   background: #f8f8f8;
+   width: 50px;
+   height: 50px;
+   border-radius: 25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   cursor: pointer;
+}
+
+.container img {
+   width: 500px;
+   height: 312px;
+   margin-top: 20px;
+}
+
+.btn {
+   width: 500px;
+   text-align: center;
+}
+
+.btn button {
+    color: rgb(38, 38, 38);
+    font-family: monospace;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
